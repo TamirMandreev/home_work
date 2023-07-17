@@ -8,3 +8,7 @@ def func_2(value):
     str_1 = value.title()
     return str_1
 
+def func_3(value):
+    '''Здесь должны быть минимальные улучшения'''
+    pass
+
